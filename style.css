@@ -1,0 +1,34 @@
+body{
+    font-family: 'Roboto' , cursive;
+    background: #c6f08e;
+}
+.header_div {
+    text-align: center;
+    background: white;
+    color: red;
+}
+.header_div p{
+    font-family: 'Reenie Beanie' , sans-serif;
+    color: rgb(243, 144, 182);
+    letter-spacing: 3px;
+    font-size: 13px;
+    font-weight: bold;
+}
+.main_div button{
+    font-family: 'Shadows Into Light' , sans-serif;
+    margin-top: 30px ;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+.copy_right_footer{
+    position: fixed;
+    color: rgb(92, 127, 224);
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: rgb(230, 240, 100);
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(146, 179, 240);
+}
